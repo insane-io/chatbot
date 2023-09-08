@@ -1,0 +1,49 @@
+{
+  "intents": [
+      {
+        "tag": "act1952-main",
+        "patterns": [
+          "What is the primary purpose of the Mines Act, 1952",
+          "What is the main objective of the Mines Act, 1952?",
+          "Why was the Mines Act, 1952, enacted in India?",
+          "Can you explain the primary purpose of the Mines Act of 1952?",
+          "What does the Mines Act, 1952, aim to achieve?",
+          "What are the key goals and intentions behind the Mines Act, 1952?",
+          "Describe the fundamental aim of the Mines Act, 1952.",
+          "In what ways does the Mines Act, 1952, regulate mining activities?",
+          "How does the Mines Act, 1952, contribute to the safety and welfare of mine workers?",
+          "What are the underlying principles of the Mines Act, 1952?",
+          "What problem or issue was the Mines Act, 1952, designed to address?"
+        ],
+        "responses": [
+          " The primary purpose of the Mines Act, 1952, is to establish measures for the health, safety, and welfare of workers in coal, metalliferous, and oil mines. It also regulates working hours, minimum wages, and other related matters in the mining industry."
+        ]
+      },
+      {
+        "tag": "greet",
+        "patterns": [
+          "Hi",
+          "Hello",
+          "Hey" 
+        ],
+        "responses": [
+          " Hello",
+          "Hi, how can I help you"
+        ]
+      },
+      {
+        "tag": "act1952-penelties",
+        "patterns": [
+          "What are the potential penalties that individuals or entities may face for breaching the provisions of the Mines Act, 1952, in India?",
+          "Could you outline the consequences or fines imposed for non-compliance with the Mines Act, 1952, in the country?",
+          "In the event of a violation of the Mines Act, 1952, what types of punitive measures can be enforced under Indian law?",
+          "Are there specific penalties prescribed by the Mines Act, 1952, for different types of violations, and if so, what are they?",
+          "How does the Mines Act, 1952, address the issue of penalties, and can you provide examples of cases where penalties have been imposed for violations?"
+        ], 
+        "responses": [
+          "Violations of the Mines Act can result in penalties, including imprisonment for up to 3 months, fines of varying amounts, or both. Penalties may be imposed for obstructing Act provisions, falsifying records, omitting to furnish plans, and failing to report accidents, among other offenses."
+        ]
+      }
+    ]
+    }
+    
